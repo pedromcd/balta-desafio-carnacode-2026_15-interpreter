@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CO-3](https://github.com/user-attachments/assets/ba8139b5-0c16-48dc-8185-a6f0cd2f0005)
 
 ## 🥁 CarnaCode 2026 - Desafio 15 - Interpreter
 
